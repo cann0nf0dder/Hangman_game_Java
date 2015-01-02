@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
-* @author Malkor13
+* @author Cann0nF0dder
 * ispired by System of a Down mix albums playlist
 */
 public class hangman2 {

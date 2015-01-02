@@ -10,6 +10,8 @@ import java.util.Random;
 /**
 * @author cann0nF00der
 * ispired by System of a Down mix albums playlist
+* Revisted Jan 2015 - Current Status BROKEN
+* Type mismatch: cannot convert from element type Object to JLabel
 */
 public class hangman2 {
 
